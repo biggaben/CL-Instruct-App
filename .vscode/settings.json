@@ -1,0 +1,14 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.defaultInterpreterPath": "I:\\VENVs\\cl-inst-app\\Scripts\\python.exe",
+    "isort.interpreter": [
+        "I:\\VENVs\\cl-inst-app\\Scripts\\python.exe"
+    ],
+    "pylint.interpreter": [
+        "I:\\VENVs\\cl-inst-app\\Scripts\\python.exe"
+    ],
+    "black-formatter.interpreter": [
+        "I:\\VENVs\\cl-inst-app\\Scripts\\python.exe"
+    ]
+}
